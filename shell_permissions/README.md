@@ -8,3 +8,5 @@ This script creates an empty file `hello`.
 This scripts adds the execute permssion to the owner of the file `hello`.
 ## 6-multiple_permissions
 This script adds execute permission to the owner and the group owner, and read permission to other users, to the file `hello`.
+## 9-John_Doe
+This script sets the mode of the file `hello`.
