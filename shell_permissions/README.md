@@ -4,3 +4,5 @@ This script switches the current user to `betty`.
 This script prints out the effective username of the current user.
 ## 4-empty
 This script creates an empty file `hello`.
+## 5-execute
+This scripts adds the execute permssion to the owner of the file `hello`.
